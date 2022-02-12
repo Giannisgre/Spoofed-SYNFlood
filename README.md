@@ -11,11 +11,11 @@ SYNFlood DoS attack that spoofs the source IP address.
 
 ## Execution Results
 
-###Console Output
+### Console Output
 
 ![Console output](/Screenshots/console.PNG)
 
-###Wireshark Logs
+### Wireshark Logs
 
 ![Wireshark logs](/Screenshots/wireshark.PNG)
 
