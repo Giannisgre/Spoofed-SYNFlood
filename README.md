@@ -2,6 +2,9 @@
 
 SYNFlood DoS attack that spoofs the source IP address.
 
+## WARNING
+**This script was created for educational purposes only.**
+
 ## Execution
 
 1. Execute the script via cli: `python SpoofedSYNFlood.py`.
