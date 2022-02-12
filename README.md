@@ -12,10 +12,10 @@ SYNFlood DoS attack that spoofs the source IP address.
 ## Execution Results
 
 Console Output
-![This is an image](/screenshots/console.PNG)
+![Console output](/Screenshots/console.PNG)
 
 Wireshark Logs
-![This is an image](/screenshots/wireshark.PNG)
+![Wireshark logs](/Screenshots/wireshark.PNG)
 
 ## Dependencies
 
